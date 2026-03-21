@@ -27,6 +27,12 @@
 
 # 💵 Personal Finance Management System
 
+<div align="center">
+  <a href="https://sarvesh-k-e.github.io/C-ExpenseTracker-25BCE5393/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_LIVE_IN_BROWSER-Launch_Application-388e3c?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="Live Demo">
+  </a>
+</div>
+
 A WebAssembly-powered, retro-terminal styled expense tracker with cloud synchronization and AI financial insights. Built in C and deployed to the modern web.
 
 ---
